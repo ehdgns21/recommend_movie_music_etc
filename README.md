@@ -21,6 +21,12 @@ from sklearn.decomposition import TruncatedSVD
 
 SVD = TruncatedSVD(n_components=12)
 matrix = SVD.fit_transform(movie_user_rating)
-matrix.shape
+matrix.shape  
+ 
+   
+
+
+음악추천시스템  
+https://brunch.co.kr/@kakao-it/282   
   
   
