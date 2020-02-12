@@ -16,7 +16,7 @@ https://docsplayer.org/105795123-%EC%8A%AC%EB%9D%BC%EC%9D%B4%EB%93%9C-1.html
 https://kkokkilkon.tistory.com/151    
 
 
-현재문제점  
+
 from sklearn.decomposition import TruncatedSVD
 
 SVD = TruncatedSVD(n_components=12)
