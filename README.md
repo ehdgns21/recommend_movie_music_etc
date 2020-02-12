@@ -5,15 +5,15 @@
 https://lsjsj92.tistory.com/568
   
   
-
 논문 : 멘토기반의 영화추천 시스템  
 
     
-주피터 : 단축키  
+# 주피터 : 단축키  
 https://kkokkilkon.tistory.com/151    
 
 
-(학습)
+# (학습)  
+
 from sklearn.decomposition import TruncatedSVD
 
 SVD = TruncatedSVD(n_components=12)
@@ -21,6 +21,7 @@ matrix = SVD.fit_transform(movie_user_rating)
 matrix.shape  
  
    
+# 사이트  
 
 음악추천시스템  https://brunch.co.kr/@kakao-it/282   
 
