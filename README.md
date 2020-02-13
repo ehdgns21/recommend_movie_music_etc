@@ -19,6 +19,8 @@ from sklearn.decomposition import TruncatedSVD
 SVD = TruncatedSVD(n_components=12)
 matrix = SVD.fit_transform(movie_user_rating)
 matrix.shape  
+
+SVD와 PCA, 그리고 잠재의미분석(LSA)  https://ratsgo.github.io/from%20frequency%20to%20semantics/2017/04/06/pcasvdlsa/
  
    
 # 사이트  
