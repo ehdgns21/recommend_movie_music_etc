@@ -41,3 +41,8 @@ surprise, 추천 시스템 (DS스쿨) https://datascienceschool.net/view-noteboo
 
 
 User-based Collaborative Filtering  https://proinlab.com/archives/2103
+
+유클리디안 거리점수(Euclidean Distance), 피어슨 상관계수(Pearson correlation coefficient)  
+https://yumere.tistory.com/70?category=430507  
+
+
